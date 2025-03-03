@@ -1,6 +1,7 @@
 # Cplusplus-Program
 
-# I chose project 2 as my project to submit through this portflio. This project is the investment calculator app to help users forecast the growth of their invvestment over time. The program takes inputs from the user, includes the initial amount of investment, and then calculates the expected balance with and without additional monthly deposits. The results were then displayed in a tabular format to show a clear insight into the investment over time.
+# Project choice
+ - I chose project 2 as my project to submit through this portflio. This project is the investment calculator app to help users forecast the growth of their invvestment over time. The program takes inputs from the user, includes the initial amount of investment, and then calculates the expected balance with and without additional monthly deposits. The results were then displayed in a tabular format to show a clear insight into the investment over time.
 
 # What was done well:
  - a clear user input validation is implemented to ensure no invalid values are entered(negative values)
